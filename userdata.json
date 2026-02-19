@@ -3,7 +3,7 @@
         "device_id": "eecdf3a2f300e57c",
         "key": "NKN",
         "expirydate": "31-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device123",
