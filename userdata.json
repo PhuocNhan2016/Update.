@@ -54,9 +54,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "3e21263ff737c56d",
-        "key": "1234",
-        "expirydate": "27-4-2027",
+        "device_id": "okokk",
+        "key": "000",
+        "expirydate": "27-4-2020",
         "Allowoffline": false
     },
     {
@@ -306,9 +306,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "000",
-        "key": "000",
-        "expirydate": "29-4-2024",
+        "device_id": "3e21263ff737c56d",
+        "key": "0000",
+        "expirydate": "29-4-2027",
         "Allowoffline": false
     },
 ]
