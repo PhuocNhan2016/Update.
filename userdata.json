@@ -301,9 +301,9 @@
     },
     {
         "device_id": "eecdf3a2f300e57c",
-        "key": "hếthạn",
+        "key": "300",
         "expirydate": "1-1-2028",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "3e21263ff737c56d",
