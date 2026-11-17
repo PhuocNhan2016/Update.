@@ -67,25 +67,25 @@
     },
     {
         "device_id": "1dd0276c22a6c3aa",
-        "key": "DH01",
+        "key": "M02",
         "expirydate": "22-3-2027",
         "Allowoffline": false
     },
     {
         "device_id": "b2b576f761b101aa",
-        "key": "DH01",
+        "key": "M03",
         "expirydate": "20-10-2026",
         "Allowoffline": false
     },
     {
         "device_id": "f2bb4d83665313cd",
-        "key": "DH01",
+        "key": "M04",
         "expirydate": "27-10-2026",
         "Allowoffline": false
     },
     {
         "device_id": "02239993a2022b5d",
-        "key": "DH01",
+        "key": "M05",
         "expirydate": "29-10-2026",
         "Allowoffline": false
     },
@@ -97,55 +97,55 @@
     },
     {
         "device_id": "c733f4a9eb96d6e7",
-        "key": "DH01",
+        "key": "M07",
         "expirydate": "14-12-2026",
         "Allowoffline": false
     },
     {
         "device_id": "cde65e9c27e0b5fb",
-        "key": "DH01",
+        "key": "M08",
         "expirydate": "20-12-2026",
         "Allowoffline": false
     },
     {
         "device_id": "58fc0b4356884c4e",
-        "key": "DH01",
+        "key": "M09",
         "expirydate": "20-12-2026",
         "Allowoffline": false
     },
     {
         "device_id": "5c15157822c0655d",
-        "key": "DH01",
+        "key": "M10",
         "expirydate": "20-12-2026",
         "Allowoffline": false
     },
     {
         "device_id": "294ef9a7f18bbe48",
-        "key": "DH01",
+        "key": "M11",
         "expirydate": "20-12-2026",
         "Allowoffline": false
     },
     {
         "device_id": "82455505a7d0acf7",
-        "key": "DH01",
+        "key": "M12",
         "expirydate": "14-3-2027",
         "Allowoffline": false
     },
     {
         "device_id": "ba3faf956a0f9984",
-        "key": "DH01",
+        "key": "M13",
         "expirydate": "14-3-2027",
         "Allowoffline": false
     },
     {
         "device_id": "6ef460d269e58e2b",
-        "key": "DH01",
+        "key": "M14",
         "expirydate": "22-3-2027",
         "Allowoffline": false
     },
     {
         "device_id": "3e21263ff737c56d",
-        "key": "DH01",
+        "key": "M15",
         "expirydate": "22-3-2027",
         "Allowoffline": false
     },
